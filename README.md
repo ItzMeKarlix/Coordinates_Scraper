@@ -1,5 +1,5 @@
 # Coordinates_Scraper
-Simple OSM Munincipality/City coordinates scraper
+Simple OSM Munincipality/City in Philippines coordinates scraper
 
 ## Installation
 In your terminal

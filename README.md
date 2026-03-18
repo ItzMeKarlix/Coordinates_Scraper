@@ -6,7 +6,7 @@ In your terminal
 ```bash
 pip install requests
 ```
-then,
+
 ## Run
 ```bash
 python scraper.py
